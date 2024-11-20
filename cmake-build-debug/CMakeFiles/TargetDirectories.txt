@@ -1,0 +1,3 @@
+C:/Users/Ready2Go/CLionProjects/3_1a/cmake-build-debug/CMakeFiles/3_1a.dir
+C:/Users/Ready2Go/CLionProjects/3_1a/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Ready2Go/CLionProjects/3_1a/cmake-build-debug/CMakeFiles/rebuild_cache.dir
